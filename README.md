@@ -9,4 +9,4 @@ TraceScanner
 - Очистка пользовательских и системных кэшей (`BAM`, `MuiCache`, `UserAssist`, `RecentDocs`, `OpenSavePidlMRU`, `BagMRU`, `Compatibility Assistant\Store`, `$Recycle.Bin`).
 - Автоматический выбор инструкций под любой процессор: `AVX-512BW` (Ryzen 7000/9000), `AVX2 + BMI2` (Ryzen 5000, Intel Core), `AVX2` (Ryzen 1000–3000) или `SSE2` (старые Intel Xeon / Core / AMD FX).
 - Полная поддержка всех сборок Windows 10 (1507–22H2) и Windows 11 (21H2–25H2)
-- (Я надеюсь многие люди поймут, для чего он реалально нужен)
+- (Я надеюсь многие люди поймут, для чего он реально нужен если не поймут то соболезную)
